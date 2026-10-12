@@ -1,6 +1,6 @@
 # Calendari d’esdeveniments — AC3
 
-Activitat del mòdul M0612 — Desenvolupament web en entorn client.
+M0612 — Desenvolupament web en entorn client.
 U1 — Fonaments de JavaScript.
 
 ## Aplicació publicada
